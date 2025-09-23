@@ -1,2 +1,2 @@
-# binshil.gitub.io
-My Portfolio Website
+# portfolio
+Hi, I am Binshil CK. This is my Portfolio Website.
